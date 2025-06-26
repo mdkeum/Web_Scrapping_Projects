@@ -40,7 +40,8 @@ Web_Scrapping_Project/
 │   ├── parsehub_project.json
 │   ├── sample_output.csv
 │   └── README.md
-│
+└── .gitignore
+└── LICENSE
 └── README.md  <-- (this file)
 
 
