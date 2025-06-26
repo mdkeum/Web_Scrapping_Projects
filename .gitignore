@@ -1,3 +1,33 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore data exports that are large or auto-generated
+*.csv
+*.xlsx
+*.json
+
+# Ignore API key files
+.env
+config.json
+secrets.json
+
+# Ignore ParseHub run artifacts
+*.phub
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
